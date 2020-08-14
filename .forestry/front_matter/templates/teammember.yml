@@ -25,3 +25,5 @@ fields:
     max: 
     labelField: 
   label: Members
+pages:
+- team/team.md
