@@ -9,6 +9,8 @@ sections:
   label: Team
   create: documents
   match: "**/*"
+  templates:
+  - teammember
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
